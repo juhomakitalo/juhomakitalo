@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juho!</h1>
 <h3 align="center">A passionate system specialist from Finland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juhomakitalo" alt="juhomakitalo&theme=onedark" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=juhomakitalo&theme=algolia" /></a> </p>
 
 - 🌱 I’m currently learning **Cloud as infrastructure**
 
