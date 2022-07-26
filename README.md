@@ -18,6 +18,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=juhomakitalo&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats-juhomakitalo.vercel.app/api/top-langs/?username=juhomakitalo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 >
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
