@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Juho!</h1>
-<h3 align="center">A passionate system specialist from Finland</h3>
+<h3 align="center">A passionate Cloud Specialist from Finland</h3>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=juhomakitalo&theme=algolia&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" /></a> </p>
+<p>
+  <img src="https://img.shields.io/endpoint?url=https://wakapi.laninurkka.com/api/compat/shields/v1/nsjuma/interval:today&label=today" /></a> 
+  <img src="https://img.shields.io/endpoint?url=https://wakapi.laninurkka.com/api/compat/shields/v1/nsjuma/interval:30_days&label=last 30d" /></a> 
+  <img src="https://komarev.com/ghpvc/?username=juhomakitalo&color=3B8761" alt="watching_count" />
+</p>
 
-- 🌱 I’m currently learning **Cloud as infrastructure**
+- 🌱 I’m currently learning **AWS**
+- 🌱 Certified **AWS Certified SysOps Administrator – Associate**
 
 # 🗣 Connect with me:
 <p align="left">
@@ -44,7 +49,9 @@
 [![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)](https://www.elastic.co/)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-juhomakitalo.vercel.app/api?username=juhomakitalo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=juhomakitalo&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats-juhomakitalo.vercel.app/api/top-langs/?username=juhomakitalo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
->
+<p float="left">
+<img src="https://github-readme-stats-juhomakitalo.vercel.app/api?username=juhomakitalo&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/></a>
+<img src="https://streak-stats.demolab.com/?user=juhomakitalo&hide_border=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&background=1A202C&dates=FFFFFF&currStreakNum=FFFFFF&excludeDaysLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"/></a>
+<img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=nsjuma&api_domain=wakapi.laninurkka.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&hide_border=true&custom_title=Wakapi%20Week%20Stats"/></a>
+<img widht="auto" src="https://github-readme-stats-juhomakitalo.vercel.app/api/top-langs/?username=juhomakitalo&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/></a>
+</p>
